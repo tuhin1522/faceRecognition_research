@@ -1,7 +1,3 @@
-# -----------------------------------------------------------------------------------------
-# Code taken from https://github.com/iwantooxxoox/Keras-OpenFace (with minor modifications)
-# -----------------------------------------------------------------------------------------
-
 import tensorflow as tf
 import numpy as np
 import os
